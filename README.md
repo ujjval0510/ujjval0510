@@ -15,7 +15,8 @@
 **Connect with me** 👇
 
 <p float="left">
-<a href="https://www.linkedin.com/in/ujjval-shrimali-a9b058148/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw3jAhbE7XdTljlYOUUnDTVh&ust=1675168779896000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIia7JGo7_wCFQAAAAAdAAAAABAE" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://twitter.com/boopalan457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ujjval-shrimali-a9b058148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
 
 **My github stats**
