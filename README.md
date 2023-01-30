@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **AI FaceRecognition App**
 
-- 🌱 I’m currently learning **Kotlin,Ktor,Jetpack compose :)**
+- 🌱 I’m currently learning **Kotlin,Ktor,Jetpack compose **
 
-- 💬 Ask me about **Android, React Native, React JS, Typescript  **
+- 💬 Ask me about **Android, React Native, React JS, Typescript, JavaScript  **
 
 - 📫 How to reach me **ujjvalshri0510@gmail.com**
 
