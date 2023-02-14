@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI FaceRecognition App**
 
-- 🌱 I’m currently learning **Kotlin,Ktor,Android Jetpack,Coroutines,Kotlin Flow API etc. **
+- 🌱 Currently learning **Kotlin,Ktor,Android Jetpack,Coroutines,Kotlin Flow API etc. **
 
 - 💬 Ask me about **Android, React Native, React JS, Typescript, JavaScript  **
 
