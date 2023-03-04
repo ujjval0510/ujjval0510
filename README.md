@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android, React Native, React JS, Typescript, JavaScript  **
 
-- 📫 How to reach me **ujjvalshri0510@gmail.com**
+- 📫 How to reach me **shrimaliujjval2329@gmail.com / ujjvalshri0510@gmail.com**
 
 **Connect with me** 👇
 
